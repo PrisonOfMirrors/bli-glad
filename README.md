@@ -14,6 +14,7 @@ This list is in no particular order but I would like to achieve these things by 
 ## Merits
 
 - [ ] Volunteer at a homeless shelter
+- [ ] Donate/cook for a food pantry
 - [ ] Show kindness to a stranger
 - [ ] Be there for someone in need
 - [ ] Pay a nice compliment to someone
@@ -28,6 +29,7 @@ This list is in no particular order but I would like to achieve these things by 
 ## Miscellaneous
 
 - [ ] Travel to a different country
+- [ ] Visit **Neseblod Records** in Oslo, Norway
 - [ ] Experience a hot sauna
 - [ ] Bada isvak (preferably in combination with the hot sauna)
 - [ ] Read a good book
