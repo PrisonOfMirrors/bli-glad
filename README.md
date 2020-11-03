@@ -28,6 +28,7 @@ This list is in no particular order but I would like to achieve these things by 
 ## Miscellaneous
 
 - [ ] Travel to a different country
+- [ ] Experience a hot sauna
 - [ ] Read a good book
 - [ ] Improve self-esteem
 - [ ] Solve a lot of puzzles
