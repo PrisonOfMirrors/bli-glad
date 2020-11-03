@@ -25,24 +25,24 @@ This list is in no particular order but I would like to achieve these things by 
 - [ ] Get back into studying astronomy
 - [ ] Learn more about theoretical physics
 - [ ] Save up money for college (again)
-- [ ] Learn Swedish
+- [ ] Learn Swedish enough to carry basic conversations
 
 ## Miscellaneous
 
 - [ ] Travel to a different country
-- [ ] Visit **Neseblod Records** in Oslo, Norway
-- [ ] Visit **Österhaninge begravningsplats** in Stockholm, Sweden
+- - [ ] Visit **Neseblod Records** in Oslo, Norway
+- - [ ] Visit **Österhaninge begravningsplats** in Stockholm, Sweden
 - [ ] Experience a hot sauna
-- [ ] Bada isvak (preferably in combination with the hot sauna)
+- - [ ] Bada isvak (preferably in combination with the hot sauna)
 - [ ] Read a good book
-- [ ] Improve self-esteem
 - [ ] Solve a lot of puzzles
 - [ ] Find sense of fashion ;)
-- [ ] Voice therapy and training
 
 ## Personal
 
+- [ ] Improve self-esteem
 - [ ] Visit a therapist
+- - [ ] Voice therapy and training
 - [ ] Make a new friend
 - [ ] Share time with someone close
 - [ ] Find happiness and love?
