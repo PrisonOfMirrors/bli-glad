@@ -18,6 +18,7 @@ This list is in no particular order but I would like to achieve these things by 
 - [ ] Show kindness to a stranger
 - [ ] Be there for someone in need
 - [ ] Pay a nice compliment to someone
+- [ ] Plant a tree/flower somewhere
 
 ## Educational
 
