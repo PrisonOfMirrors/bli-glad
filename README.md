@@ -31,7 +31,10 @@ This list is in no particular order but I would like to achieve these things by 
 
 ## Miscellaneous
 
-- [ ] Have a higher self-esteem
+- [ ] Travel to a different country
+- [ ] Read a good book
+- [ ] Improve self-esteem
+- [ ] Solve a lot of puzzles
 - [ ] Find sense of fashion ;)
 - [ ] Voice therapy and training
 
