@@ -2,17 +2,13 @@ The next step is beating depression into the ground then planting a beautiful tr
 
 This list is in no particular order but I would like to achieve these things by the end of 2021.
 
-## Coding
+## Computers
 
 - [ ] Learn C++ and master C
 - [ ] Write a program using OpenGL
 - [ ] Create something fun with Diablo
 - [ ] Work on a project with a friend
-
-## Computers
-
-- [ ] Buy an external hard drive
-- [ ] Fix laptop screen
+- [ ] Fix my laptop screen
 - [ ] Transition from Windows to Linux
 
 ## Merits
