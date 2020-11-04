@@ -19,13 +19,14 @@ This list is in no particular order but I would like to achieve these things by 
 - [ ] Be there for someone in need
 - [ ] Pay a nice compliment to someone
 - [ ] Plant a tree/flower somewhere
+- [ ] Save an animal from dying
 
 ## Educational
 
 - [ ] Get back into studying astronomy
 - [ ] Learn more about theoretical physics
-- [ ] Save up money for college (again)
-- [ ] Learn Swedish enough to carry basic conversations
+- [ ] Save up money for college and study abroad
+- [ ] Learn Swedish enough to have basic conversations
 
 ## Miscellaneous
 
@@ -35,14 +36,18 @@ This list is in no particular order but I would like to achieve these things by 
 - [ ] Experience a hot sauna
 - - [ ] Bada isvak (preferably in combination with the hot sauna)
 - [ ] Read a good book
-- [ ] Solve a lot of puzzles
+- [ ] Solve an entire book of puzzles
+- [ ] Try food from a different culture
+- [ ] Attend a cultural event in a foreign country
+- [ ] View space on a beautiful night without light pollution
 - [ ] Find sense of fashion ;)
 
 ## Personal
 
 - [ ] Improve self-esteem
 - [ ] Visit a therapist
-- - [ ] Voice therapy and training
+- - [ ] Engage in related LGBT programs
+- [ ] Have a positive outlook on life
 - [ ] Make a new friend
 - [ ] Share time with someone close
 - [ ] Find happiness and love?
