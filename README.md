@@ -10,6 +10,7 @@ This list is in no particular order but I would like to achieve these things by 
 - [ ] Work on a project with a friend
 - [ ] Fix my laptop screen
 - [ ] Transition from Windows to Linux
+- [ ] Attend a public coding/hacking event and meet cool people
 
 ## Merits
 
