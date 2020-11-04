@@ -31,14 +31,14 @@ This list is in no particular order but I would like to achieve these things by 
 ## Miscellaneous
 
 - [ ] Travel to a different country
+- - [ ] Attend a foreign cultural event
+- - [ ] Try food from a different culture
 - - [ ] Visit **Neseblod Records** in Oslo, Norway
 - - [ ] Visit **Österhaninge begravningsplats** in Stockholm, Sweden
 - [ ] Experience a hot sauna
 - - [ ] Bada isvak (preferably in combination with the hot sauna)
 - [ ] Read a good book
 - [ ] Solve an entire book of puzzles
-- [ ] Try food from a different culture
-- [ ] Attend a cultural event in a foreign country
 - [ ] View space on a beautiful night without light pollution
 - [ ] Find sense of fashion ;)
 
