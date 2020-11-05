@@ -5,7 +5,7 @@ This list is in no particular order but I would like to achieve these things by 
 ## Computers
 
 - [ ] Learn C++ and master C
-- [ ] Write a program using OpenGL
+- [ ] Write a 3D game or program using OpenGL
 - [ ] Create something fun with Diablo
 - [ ] Work on a project with a friend
 - [ ] Fix my laptop screen
