@@ -5,7 +5,7 @@ This list is in no particular order but I would like to achieve these things by 
 ## Computers
 
 - [ ] Learn C++ and master C
-- [x] Write a 3D game or program using OpenGL
+- [x] Write a 3D game or program using OpenGL (Ruby)
 - [ ] Create something fun with Diablo
 - [ ] Work on a project with a friend
 - [ ] Fix my laptop screen
@@ -17,7 +17,7 @@ This list is in no particular order but I would like to achieve these things by 
 - [ ] Volunteer at a homeless shelter
 - [ ] Donate/cook for a food pantry
 - [ ] Show kindness to a stranger
-- [x] Be there for someone in need
+- [x] Be there for someone in need (Ruby)
 - [ ] Pay a nice compliment to someone
 - [ ] Plant a tree/flower somewhere
 - [ ] Save a stray cat or dog
