@@ -24,9 +24,13 @@ This list is in no particular order but I would like to achieve these things by 
 
 ## Educational
 
-- [ ] Get back into studying astronomy
-- [ ] Learn more about theoretical physics
 - [ ] Save up money for college and study abroad
+- [ ] Study these subjects on my own and/or in college
+- - [ ] Astronomy
+- - [ ] Theoretical physics
+- - [ ] Trigonometry
+- - [ ] Calculus
+- - [ ] Various advanced mathematics (Game theory, graph theory, etc.)
 - [ ] Learn Swedish enough to have basic conversations
 
 ## Miscellaneous
