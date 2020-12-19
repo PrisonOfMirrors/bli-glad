@@ -18,7 +18,7 @@ This list is in no particular order but I would like to achieve these things by 
 - [ ] Donate/cook for a food pantry
 - [ ] Show kindness to a stranger
 - [x] Be there for someone in need (Ruby)
-- [ ] Pay a nice compliment to someone
+- [x] Pay a nice compliment to someone (Sapphire)
 - [ ] Plant a tree/flower somewhere
 - [ ] Save a stray cat or dog
 
