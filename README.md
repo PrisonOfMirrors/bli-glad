@@ -20,12 +20,13 @@ This list is in no particular order but I would like to achieve these things by 
 - [x] Be there for someone in need (Ruby)
 - [x] Pay a nice compliment to someone (Sapphire)
 - [ ] Plant a tree/flower somewhere
+- - [ ] Leave a collection of leaves on my foster mom's grave
 - [ ] Save a stray cat or dog
 
 ## Educational
 
-- [ ] Save up money for college and study abroad
-- [ ] Study these subjects on my own and/or in college
+- [ ] Save up money for college so I can go before age 30??
+- [ ] Study these subjects more (or again)
 - - [ ] Astronomy
 - - [ ] Theoretical physics
 - - [ ] Trigonometry
