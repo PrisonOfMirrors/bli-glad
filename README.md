@@ -5,6 +5,7 @@ This list is in no particular order but I would like to achieve these things by 
 ## Computers
 
 - [ ] Learn C++ and master C
+- [ ] Learn Go-lang
 - [x] Write a 3D game or program using OpenGL (Ruby)
 - [ ] Create something fun with Diablo
 - [ ] Work on a project with a friend
@@ -31,7 +32,7 @@ This list is in no particular order but I would like to achieve these things by 
 - - [ ] Theoretical physics
 - - [ ] Trigonometry
 - - [ ] Calculus
-- - [ ] Various advanced mathematics (Game theory, graph theory, etc.)
+- - [ ] Become a mathematician!
 - [ ] Learn Swedish enough to have basic conversations
 
 ## Miscellaneous
@@ -51,7 +52,7 @@ This list is in no particular order but I would like to achieve these things by 
 ## Personal
 
 - [ ] Improve self-esteem
-- [ ] Visit a therapist
+- [x] Visit a therapist (Sapphire)
 - - [ ] Engage in related LGBT programs
 - [ ] Have a positive outlook on life
 - [ ] Make a new friend
