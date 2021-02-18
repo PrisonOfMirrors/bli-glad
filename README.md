@@ -54,6 +54,8 @@ This list is in no particular order but I would like to achieve these things by 
 ### Personal
 
 - [ ] Improve self-esteem
+- [ ] Stop self-harming
+- [ ] Stop crying 4 hours every day
 - [x] Visit a therapist (Sapphire)
 - - [ ] Engage in related LGBT programs
 - [ ] Have a positive outlook on life
