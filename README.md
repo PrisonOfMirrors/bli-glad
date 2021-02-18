@@ -2,7 +2,9 @@ The next step is beating depression into the ground then planting a beautiful tr
 
 This list is in no particular order but I would like to achieve these things by the end of 2021.
 
-## Computers
+# Tasks
+
+### Computers
 
 - [ ] Learn C++ and master C
 - [ ] Learn Go-lang
@@ -13,7 +15,7 @@ This list is in no particular order but I would like to achieve these things by 
 - [ ] Transition from Windows to Linux
 - [ ] Attend a public coding/hacking event and meet cool people
 
-## Merits
+### Merits
 
 - [ ] Volunteer at a homeless shelter
 - [ ] Donate/cook for a food pantry
@@ -24,7 +26,7 @@ This list is in no particular order but I would like to achieve these things by 
 - - [ ] Leave a collection of leaves on my foster mom's grave
 - [ ] Save a stray cat or dog
 
-## Educational
+### Educational
 
 - [ ] Save up money for college so I can go before age 30??
 - [ ] Study these subjects more (or again)
@@ -35,7 +37,7 @@ This list is in no particular order but I would like to achieve these things by 
 - - [ ] Become a mathematician!
 - [ ] Learn Swedish enough to have basic conversations
 
-## Miscellaneous
+### Miscellaneous
 
 - [ ] Travel to a different country
 - - [ ] Attend a foreign cultural event
@@ -49,7 +51,7 @@ This list is in no particular order but I would like to achieve these things by 
 - [ ] View space on a beautiful night without light pollution
 - [ ] Find sense of fashion ;)
 
-## Personal
+### Personal
 
 - [ ] Improve self-esteem
 - [x] Visit a therapist (Sapphire)
@@ -58,3 +60,16 @@ This list is in no particular order but I would like to achieve these things by 
 - [ ] Make a new friend
 - [ ] Share time with someone close
 - [ ] Find happiness and love?
+
+# Resources
+
+### Online Courses
+
+- https://www.coursera.org/
+- https://www.edx.org/
+- https://www.khanacademy.org/
+
+### Coping With Depression
+
+- https://www.verywellmind.com/tips-for-living-with-depression-1066834
+- https://www.healthline.com/health/depression/how-to-fight-depression
