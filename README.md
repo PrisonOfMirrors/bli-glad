@@ -7,8 +7,8 @@ This list is in no particular order but I would like to achieve these things by 
 ### Computers
 
 - [ ] Learn C++ and master C
-- [ ] Learn Go-lang
-- [x] Write a 3D game or program using OpenGL (Ruby)
+- [x] Learn Go-lang
+- [x] Write a 3D game or program using OpenGL
 - [ ] Create something fun with Diablo
 - [ ] Work on a project with a friend
 - [ ] Fix my laptop screen
@@ -19,9 +19,9 @@ This list is in no particular order but I would like to achieve these things by 
 
 - [ ] Volunteer at a homeless shelter
 - [ ] Donate/cook for a food pantry
-- [ ] Show kindness to a stranger
-- [x] Be there for someone in need (Ruby)
-- [x] Pay a nice compliment to someone (Sapphire)
+- [x] Show kindness to a stranger
+- [x] Be there for someone in need
+- [x] Pay a nice compliment to someone
 - [ ] Plant a tree/flower somewhere
 - - [ ] Leave a collection of leaves on my foster mom's grave
 - [ ] Save a stray cat or dog
@@ -55,8 +55,8 @@ This list is in no particular order but I would like to achieve these things by 
 
 - [ ] Improve self-esteem
 - [ ] Stop self-harming
-- [ ] Stop crying 4 hours every day
-- [x] Visit a therapist (Sapphire)
+- [x] Stop crying 4 hours every day
+- [x] Visit a therapist
 - - [ ] Engage in related LGBT programs
 - [ ] Have a positive outlook on life
 - [ ] Make a new friend
