@@ -55,6 +55,7 @@ This list is in no particular order but I would like to achieve these things by 
 ### Personal
 
 - [ ] Improve self-esteem
+- [ ] No more alcohol at all (it's causing depression)
 - [ ] Love yourself
 - [ ] Stop self-harming
 - [x] Stop crying 4 hours every day
