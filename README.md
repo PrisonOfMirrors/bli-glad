@@ -25,6 +25,7 @@ This list is in no particular order but I would like to achieve these things by 
 - [ ] Plant a tree/flower somewhere
 - - [ ] Leave a collection of leaves on my foster mom's grave
 - [ ] Save a stray cat or dog
+- [ ] Help someone who is unable to help themselves
 
 ### Educational
 
@@ -54,6 +55,7 @@ This list is in no particular order but I would like to achieve these things by 
 ### Personal
 
 - [ ] Improve self-esteem
+- [ ] Love yourself
 - [ ] Stop self-harming
 - [x] Stop crying 4 hours every day
 - [x] Visit a therapist
